@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions)
+1	Walmart	523964	14881
+2	Amazon	280522	11588
+3	Exxon Mobil	264938	14340
+4	Apple	260174	55256
+5	CVS Health	256776	6634
+6	Berkshire Hathaway	254616	81417
+7	UnitedHealth Group	242155	13839
+8	McKesson	214319	34
+9	AT&T	181193	13903
+10	AmerisourceBergen	179589	855
+11	Alphabet	161857	34343
+12	Ford Motor	155900	47
+13	Cigna	153566	5104
+14	Costco Wholesale	152703	3659
+15	Chevron	146516	2924
+16	Cardinal Health	145534	1363
+17	JPMorgan Chase	142422	36431
+18	General Motors	137237	6732
+19	Walgreens Boots Alliance	136866	3982
+20	Verizon Communications	131868	19265
+21	Microsoft	125843	39240
+22	Marathon Petroleum	124813	2637
+23	Kroger	122286	1659
+24	Fannie Mae	120304	14160
+25	Bank of America	113589	27430
+26	Home Depot	110225	11242
+27	Phillips 66	109559	3076
+28	Comcast	108942	13057
+29	Elevance Health	104213	4807
+30	Wells Fargo	103915	19549
+31	Citigroup	103449	19401
+32	Valero Energy	102729	2422
+33	General Electric	95214	-4979
+34	Dell Technologies	92154	4616
+35	Johnson & Johnson	82059	15119
+36	State Farm Insurance	79395	5593
+37	Target	78112	3281
+38	IBM	77147	9431
+39	Raytheon Technologies	77046	5537
+40	Boeing	76559	-636
+41	Freddie Mac	75125	7214
+42	Centene	74639	1321
+43	UPS	74094	4440
+44	Lowe's	72148	4281
+45	Intel	71965	21048
+46	Meta Platforms	70697	18485
+47	FedEx	69693	540
+48	MetLife	69620	5899
+49	Walt Disney	69570	11054
+50	Procter & Gamble	67684	3897
+51	PepsiCo	67161	7314
+52	Humana	64888	2707
+53	Prudential Financial	64807	4186
+54	Archer Daniels Midland	64656	1379
+55	Albertsons	60535	131
+56	Sysco	60114	1674
+57	Lockheed Martin	59812	6230
+58	HP	58756	3152
+59	Energy Transfer	54213	3592
+60	Goldman Sachs Group	53922	8466
+61	Morgan Stanley	53823	9042
+62	Caterpillar	53800	6093
+63	Cisco Systems	51904	11621
+64	Pfizer	51750	16273
+65	HCA Healthcare	51336	3505
+66	AIG	49746	3348
+67	American Express	47020	6759
+68	Delta Air Lines	47007	4767
+69	Merck	46840	9843
+70	American Airlines Group	45768	1686
+71	Charter Communications	45764	1668
+72	Allstate	44675	4847
+73	New York Life Insurance	44117	1004
+74	Nationwide	43982	830
+75	Best Buy	43638	1541
+76	United Airlines Holdings	43259	3009
+77	Liberty Mutual Insurance Group	43228	1044
+78	Dow	42951	-1359
+79	Tyson Foods	42405	2022
+80	TJX	41717	3272
+81	TIAA	40454	2460
+82	Oracle	39506	11083
+83	General Dynamics	39350	3484
+84	Deere	39258	3253
+85	Nike	39117	4029
+86	Progressive	39022	3970
+87	Publix Super Markets	38463	3005
+88	Coca-Cola	37266	8920
+89	Massachusetts Mutual Life Insurance	37253	3701
+90	Tech Data	36998	375
+91	World Kinect	36819	179
+92	Honeywell International	36709	6143
+93	ConocoPhillips	36670	7189
+94	USAA	35617	4006
+95	Exelon	34438	2936
+96	Northrop Grumman	33841	2248
+97	Capital One Financial	33766	5546
+98	Plains GP Holdings	33669	331
+99	AbbVie	33266	7882
+100	StoneX Group	32897	85
+101	Enterprise Products Partners	32789	4591
+102	Northwestern Mutual	32294	1268
+103	3M	32136	4570
+104	Abbott Laboratories	31904	3687
+105	CHS	31901	830
+106	Travelers	31581	2622
+107	Philip Morris International	29805	7185
+108	Raytheon	29176	3343
+109	Hewlett Packard Enterprise	29135	1049
+110	Arrow Electronics	28917	-204
+111	Paramount Global	27812	3308
+112	Dollar General	27754	1713
+113	U.S. Bancorp	27325	6914
+114	Starbucks	26509	3599
+115	Bristol-Myers Squibb	26145	3439
+116	US Foods Holding	25939	385
+117	Mondelez International	25868	3870
+118	Paccar	25600	2388
+119	Thermo Fisher Scientific	25542	3696
+120	Macy's	25331	564
+121	Jabil	25282	287
+122	Kraft Heinz	24977	1935
+123	Duke Energy	24658	3748
+124	Tesla	24578	-862
+125	PBF Energy	24508	319
+126	Qualcomm	24273	4386
+127	NGL Energy Partners	24088	360
+128	CBRE Group	23894	1282
+129	Baker Hughes	23838	128
+130	TD Synnex	23757	501
+131	Dollar Tree	23611	827
+132	Cummins	23571	2260
+133	United Natural Foods	23481	-285
+134	Micron Technology	23406	6313
+135	Amgen	23362	7842
+136	Penske Automotive Group	23179	436
+137	Visa	22977	12080
+138	Broadcom	22597	2724
+139	Nucor	22589	1271
+140	Gilead Sciences	22449	5386
+141	Southwest Airlines	22428	2300
+142	Halliburton	22408	-1131
+143	Lumen Technologies	22401	-5269
+144	International Paper	22376	1225
+145	Eli Lilly	22320	8318
+146	Aflac	22307	3304
+147	Lennar	22260	1849
+148	Occidental Petroleum	21971	-667
+149	Union Pacific	21708	5919
+150	Rite Aid	21674	-422
+151	PNC Financial Services Group	21624	5369
+152	DuPont	21512	498
+153	Southern	21419	4739
+154	AutoNation	21336	450
+155	DXC Technology	21184	1257
+156	McDonald's	21077	6025
+157	Marriott International	20972	1273
+158	ManpowerGroup	20864	466
+159	Bank of New York Mellon	20822	4441
+160	Hartford Financial Services Group	20740	2085
+161	Danaher	20521	3008
+162	Whirlpool	20419	1184
+163	AECOM	20173	-261
+164	Netflix	20156	1867
+165	Kohl's	19974	691
+166	Lear	19810	754
+167	Altria Group	19796	-1293
+168	Performance Food Group	19744	167
+169	Avnet	19519	176
+170	Synchrony Financial	19461	3747
+171	Genuine Parts	19392	621
+172	NextEra Energy	19204	3769
+173	CarMax	19146	842
+174	Tenet Healthcare	18479	-232
+175	Kimberly-Clark	18450	2157
+176	Emerson Electric	18372	2306
+177	WestRock	18289	863
+178	CDW	18032	737
+179	Jones Lang LaSalle	17983	535
+180	Sherwin-Williams	17901	1541
+181	Fluor	17817	-1305
+182	PayPal Holdings	17772	2459
+183	D.R. Horton	17593	1619
+184	HF Sinclair	17487	772
+185	Tenneco	17450	-334
+186	EOG Resources	17380	2735
+187	Becton Dickinson	17290	1233
+188	Lincoln National	17258	886
+189	PG&E	17129	-7656
+190	Salesforce	17098	126
+191	Mastercard	16883	8118
+192	General Mills	16865	1753
+193	Molina Healthcare	16829	737
+194	Cognizant Technology Solutions	16783	1842
+195	Marsh & McLennan	16652	1742
+196	XPO	16648	419
+197	Dominion Energy	16572	1358
+198	Western Digital	16569	-754
+199	Gap	16383	351
+200	Aramark	16227	449
+201	Principal Financial	16222	1394
+202	Ross Stores	16039	1661
+203	Colgate-Palmolive	15693	2367
+204	American Electric Power	15561	1921
+205	Nordstrom	15524	496
+206	Jacobs Solutions	15464	848
+207	Waste Management	15455	1670
+208	C.H. Robinson Worldwide	15310	577
+209	PPG Industries	15146	1243
+210	Booking Holdings	15066	4865
+211	Omnicom Group	14954	1339
+212	Loews	14931	932
+213	Ecolab	14906	1559
+214	Stryker	14884	2083
+215	Estee Lauder	14863	1785
+216	Goodyear Tire & Rubber	14745	-311
+217	Truist Financial	14664	3224
+218	Applied Materials	14608	2706
+219	BlackRock	14539	4476
+220	Stanley Black & Decker	14442	956
+221	Freeport-McMoRan	14402	-239
+222	Texas Instruments	14383	5017
+223	Biogen	14378	5889
+224	Parker-Hannifin	14320	1512
+225	Reinsurance Group of America	14300	870
+226	Howmet Aerospace	14192	470
+227	Automatic Data Processing	14175	2293
+228	Uber Technologies	14147	-8506
+229	Illinois Tool Works	14109	2521
+230	DaVita	14102	811
+231	Discover Financial Services	13989	2957
+232	Land O'Lakes	13888	206
+233	VF	13871	1260
+234	Corteva	13846	-959
+235	Las Vegas Sands	13739	2698
+236	Textron	13630	815
+237	Kellogg	13578	960
+238	Guardian Life Ins. Co. of America	13477	680
+239	Qurate Retail	13458	-456
+240	Core-Mark Holding	13329	58
+241	Community Health Systems	13210	-675
+242	Kinder Morgan	13209	2190
+243	BJ's Wholesale Club	13191	187
+244	State Street	13131	2242
+245	Ameriprise Financial	13103	1893
+246	Global Partners	13082	36
+247	United States Steel	12937	-630
+248	Bath & Body Works	12914	-366
+249	MGM Resorts International	12900	2049
+250	L3Harris Technologies	12856	1333
+251	DISH Network	12808	1400
+252	Lithia Motors	12673	272
+253	DTE Energy	12669	1169
+254	American Family Insurance Group	12633	456
+255	Farmers Insurance Exchange	12593	55
+256	Consolidated Edison	12574	1343
+257	LKQ	12506	541
+258	Sempra	12443	2197
+259	Edison International	12347	1284
+260	CenterPoint Energy	12301	791
+261	Quanta Services	12112	402
+262	Murphy USA	12101	155
+263	Expedia Group	12067	565
+264	Group 1 Automotive	12044	174
+265	Bed Bath & Beyond	12029	-137
+266	Unum Group	11999	1100
+267	CSX	11937	3331
+268	AutoZone	11864	1617
+269	Pacific Life	11847	725
+270	Vistra	11809	928
+271	Charles Schwab	11785	3704
+272	Crown Holdings	11665	510
+273	Ally Financial	11618	1715
+274	Laboratory Corp. of America	11555	824
+275	Live Nation Entertainment	11548	70
+276	Xcel Energy	11529	1372
+277	Corning	11503	960
+278	W.W. Grainger	11486	849
+279	Ball	11474	566
+280	Fox	11389	1595
+281	Universal Health Services	11378	815
+282	Baxter International	11362	1001
+283	Norfolk Southern	11296	2722
+284	Navistar International	11251	221
+285	Adobe	11171	2952
+286	J.C. Penney	11167	-268
+287	Warner Bros. Discovery	11144	2069
+288	Keurig Dr Pepper	11120	1254
+289	Leidos Holdings	11094	667
+290	IQVIA Holdings	11088	191
+291	Reliance Steel & Aluminum	10974	702
+292	Nvidia	10918	2796
+293	Entergy	10879	1241
+294	FirstEnergy	10850	912
+295	eBay	10800	1786
+296	Boston Scientific	10735	4700
+297	ODP	10647	99
+298	Molson Coors Beverage	10579	242
+299	Steel Dynamics	10465	671
+300	Mutual of Omaha Insurance	10456	272
+301	Sonic Automotive	10454	144
+302	Alcoa	10433	-1125
+303	Fidelity National Information Services	10333	298
+304	Henry Schein	10305	695
+305	Republic Services	10299	1073
+306	Liberty Media	10292	106
+307	Peter Kiewit Sons'	10283	419
+308	Interpublic Group	10221	656
+309	PulteGroup	10213	1017
+310	AES	10189	303
+311	Fiserv	10187	893
+312	BorgWarner	10168	746
+313	Oneok	10164	1279
+314	O'Reilly Automotive	10150	1391
+315	Assurant	10087	383
+316	Newell Brands	10083	107
+317	Public Service Enterprise Group	10076	1693
+318	News Corp.	10074	155
+319	Calpine	10072	770
+320	Auto-Owners Insurance	10007	1352
+321	Mohawk Industries	9971	744
+322	PVH	9909	417
+322	Campbell Soup	9909	211
+324	NRG Energy	9871	4438
+325	Fifth Third Bancorp	9790	2512
+326	Hertz Global Holdings	9779	-58
+327	Altice USA	9761	139
+328	Newmont	9740	2805
+329	Cheniere Energy	9730	648
+330	Advance Auto Parts	9709	487
+331	Lam Research	9654	2191
+332	Owens & Minor	9650	-62
+333	Equitable Holdings	9591	-1733
+334	Conagra Brands	9538	678
+335	Markel	9526	1791
+336	Jones Financial (Edward Jones)	9526	1092
+337	Hormel Foods	9497	979
+338	Hilton Worldwide Holdings	9452	881
+339	Univar Solutions	9444	-100
+340	United Rentals	9351	1174
+341	Pioneer Natural Resources	9304	756
+342	Delek US Holdings	9298	311
+343	Eastman Chemical	9273	759
+344	EMCOR Group	9175	325
+345	Avis Budget Group	9172	302
+346	J.B. Hunt Transport Services	9165	516
+347	Xerox Holdings	9145	1353
+348	Wayfair	9127	-985
+349	KKR	9120	2005
+350	AGCO	9041	125
+351	Alleghany	9041	858
+352	Icahn Enterprises	8992	-1098
+353	Voya Financial	8942	-351
+354	Ryder System	8926	-24
+355	Air Products & Chemicals	8919	1760
+356	Mosaic	8906	-1067
+357	Huntington Ingalls Industries	8899	549
+358	Berry Global Group	8878	404
+359	Anixter International	8846	263
+360	Alaska Air Group	8781	769
+361	Yum China Holdings	8776	713
+362	Dick's Sporting Goods	8751	298
+363	Caesars Holdings	8742	-1195
+364	Genworth Financial	8681	343
+365	Targa Resources	8671	-209
+366	Coty	8649	-3784
+367	Dana	8620	226
+368	Thrivent Financial for Lutherans	8612	968
+369	Autoliv	8548	462
+370	SpartanNash	8536	6
+371	Eversource Energy	8527	909
+372	Darden Restaurants	8510	713
+373	Chesapeake Energy	8489	-308
+374	NOV	8479	-6095
+375	Fidelity National Financial	8469	1062
+376	Erie Insurance Group	8443	551
+377	Oshkosh	8382	579
+378	Casey's General Stores	8365	204
+379	WESCO International	8359	223
+380	Tractor Supply	8352	562
+381	CommScope Holding	8345	-930
+382	Huntsman	8342	562
+383	American Financial Group	8237	897
+384	Masco	8235	935
+385	Sanmina	8234	142
+386	Amphenol	8225	1155
+387	Williams	8201	850
+388	Westinghouse Air Brake Technologies	8200	327
+389	Expeditors Intl. of Washington	8175	590
+390	Andersons	8170	18
+391	Westlake	8118	421
+392	Constellation Brands	8116	3436
+393	Frontier Communications	8107	-5911
+394	JetBlue Airways	8094	569
+395	Citizens Financial Group	8066	1791
+396	Raymond James Financial	8023	1034
+397	Foot Locker	8005	491
+398	Hershey	7986	1150
+399	Zimmer Biomet Holdings	7982	1132
+400	Cincinnati Financial	7924	1997
+401	Western & Southern Financial Group	7921	245
+402	W.R. Berkley	7902	682
+403	Motorola Solutions	7887	868
+404	Thor Industries	7865	133
+405	Regeneron Pharmaceuticals	7863	2116
+406	Spirit AeroSystems Holdings	7863	530
+407	J.M. Smucker	7838	514
+408	PPL	7769	1746
+409	Insight Enterprises	7731	159
+410	Quest Diagnostics	7726	858
+411	KeyCorp	7694	1717
+412	Veritiv	7659	-30
+413	DCP Midstream	7625	17
+414	American Tower	7580	1888
+415	Graybar Electric	7524	145
+416	WEC Energy Group	7523	1134
+417	NVR	7428	879
+418	Ulta Beauty	7398	706
+419	Devon Energy	7372	-355
+420	Blackstone	7338	2050
+421	Dean Foods	7329	-500
+422	Fortive	7326	739
+423	UGI	7320	256
+424	Burlington Stores	7286	465
+425	Builders FirstSource	7280	222
+426	Toll Brothers	7224	590
+427	Old Republic International	7214	1056
+428	Asbury Automotive Group	7210	184
+429	Arthur J. Gallagher	7195	669
+430	MasTec	7183	392
+431	Owens Corning	7160	405
+432	Magellan Health	7159	56
+433	Dover	7136	678
+434	Beacon Roofing Supply	7105	-11
+435	Avery Dennison	7070	304
+436	Hanesbrands	6967	601
+437	Packaging Corp. of America	6964	696
+438	M&T Bank	6941	1929
+439	NCR	6915	564
+440	Northern Trust	6895	1492
+441	Cintas	6892	885
+442	Polaris	6863	324
+443	CMS Energy	6845	680
+444	Seaboard	6840	283
+445	Intuit	6784	1557
+446	Regions Financial	6755	1582
+447	FM Global	6743	2479
+448	Advanced Micro Devices	6731	341
+449	Ovintiv	6726	234
+450	Booz Allen Hamilton Holding	6704	419
+451	S&P Global	6699	2123
+452	Rockwell Automation	6695	696
+453	O-I Glass	6691	-400
+454	Wynn Resorts	6611	123
+455	Securian Financial Group	6601	435
+456	Bread Financial Holdings	6581	278
+457	Weyerhaeuser	6554	-76
+457	Brighthouse Financial	6554	-740
+459	Intercontinental Exchange	6547	1933
+460	American Axle & Manufacturing	6531	-485
+461	Hess	6510	-408
+462	ABM Industries	6499	127
+463	Activision Blizzard	6489	1503
+464	GameStop	6466	-471
+465	APA	6411	-3553
+466	Science Applications International	6379	226
+467	AK Steel Holding	6359	11
+468	Dillard's	6343	111
+469	Ralph Lauren	6313	431
+470	Celanese	6297	852
+471	R.R. Donnelley & Sons	6276	-93
+472	Zoetis	6260	1500
+473	Mahwah Bergen Retail Group	6243	-661
+474	Clorox	6214	820
+475	Ingredion	6209	413
+476	First American Financial	6202	707
+477	Graphic Packaging Holding	6160	207
+478	NetApp	6146	1169
+478	HD Supply Holdings	6146	452
+480	TravelCenters of America	6117	33
+481	Olin	6110	-11
+482	Robert Half International	6074	454
+483	EnLink Midstream	6053	-1119
+484	Avantor	6040	38
+485	Tapestry	6027	643
+486	TD Ameritrade Holding	6016	2208
+487	Analog Devices	5991	1363
+488	Ameren	5910	828
+489	Williams-Sonoma	5898	356
+490	Anywhere Real Estate	5870	-188
+491	Commercial Metals	5829	198
+492	Rush Enterprises	5810	142
+493	Franklin Resources	5775	1196
+494	Fortune Brands Innovations	5765	432
+495	Levi Strauss	5763	395
+496	Crown Castle	5763	860
+497	Simon Property Group	5755	2102
+498	Cerner	5693	530
+499	Post Holdings	5681	125
+500	Huntington Bancshares	5655	1411
